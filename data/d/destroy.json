@@ -1,0 +1,32 @@
+{
+  "destroy": {
+    "word": "destroy",
+    "phonetic": "/dɪˈstrɔɪ/",
+    "part_of_speech": ["verb"],
+
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To ruin completely",
+          "example": "The fire destroyed the house."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "destroy",
+      "past": "destroyed",
+      "past_participle": "destroyed",
+      "present_participle": "destroying",
+      "third_person": "destroys"
+    },
+
+    "synonyms": ["ruin", "demolish"],
+    "antonyms": ["build"],
+
+    "usage_examples": [
+      "War destroys cities.",
+      "The building was destroyed."
+    ]
+  }
+}

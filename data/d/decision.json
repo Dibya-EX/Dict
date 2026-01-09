@@ -1,0 +1,26 @@
+{
+  "decision": {
+    "word": "decision",
+    "phonetic": "/dɪˈsɪʒ.ən/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A choice that is made",
+          "example": "It was a hard decision."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["choice", "judgment"],
+    "antonyms": ["doubt"],
+
+    "usage_examples": [
+      "Make a decision.",
+      "Her decision was right."
+    ]
+  }
+}

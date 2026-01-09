@@ -1,0 +1,26 @@
+{
+  "direction": {
+    "word": "direction",
+    "phonetic": "/dəˈrek.ʃən/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The way something moves",
+          "example": "Follow the direction."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["path", "way"],
+    "antonyms": ["confusion"],
+
+    "usage_examples": [
+      "He went in the wrong direction.",
+      "Follow the direction."
+    ]
+  }
+}

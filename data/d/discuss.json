@@ -1,0 +1,32 @@
+{
+  "discuss": {
+    "word": "discuss",
+    "phonetic": "/dɪˈskʌs/",
+    "part_of_speech": ["verb"],
+
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To talk about something",
+          "example": "They discussed the problem."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "discuss",
+      "past": "discussed",
+      "past_participle": "discussed",
+      "present_participle": "discussing",
+      "third_person": "discusses"
+    },
+
+    "synonyms": ["talk", "debate"],
+    "antonyms": ["ignore"],
+
+    "usage_examples": [
+      "Let’s discuss it.",
+      "They discussed the plan."
+    ]
+  }
+}

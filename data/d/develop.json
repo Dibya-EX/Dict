@@ -1,0 +1,32 @@
+{
+  "develop": {
+    "word": "develop",
+    "phonetic": "/dɪˈvel.əp/",
+    "part_of_speech": ["verb"],
+
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To grow or improve over time",
+          "example": "The city will develop quickly."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "develop",
+      "past": "developed",
+      "past_participle": "developed",
+      "present_participle": "developing",
+      "third_person": "develops"
+    },
+
+    "synonyms": ["grow", "expand"],
+    "antonyms": ["decline"],
+
+    "usage_examples": [
+      "Skills develop with practice.",
+      "The story develops slowly."
+    ]
+  }
+}

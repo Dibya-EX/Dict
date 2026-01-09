@@ -1,0 +1,26 @@
+{
+  "device": {
+    "word": "device",
+    "phonetic": "/dɪˈvaɪs/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A tool or machine made for a purpose",
+          "example": "This device saves energy."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["machine", "tool"],
+    "antonyms": [],
+
+    "usage_examples": [
+      "This device is useful.",
+      "He bought a new device."
+    ]
+  }
+}

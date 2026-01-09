@@ -1,0 +1,26 @@
+{
+  "duty": {
+    "word": "duty",
+    "phonetic": "/ˈdjuː.ti/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A responsibility",
+          "example": "It is my duty."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["responsibility", "task"],
+    "antonyms": ["freedom"],
+
+    "usage_examples": [
+      "Do your duty.",
+      "Duty comes first."
+    ]
+  }
+}

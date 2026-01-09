@@ -1,0 +1,32 @@
+{
+  "discover": {
+    "word": "discover",
+    "phonetic": "/dɪˈskʌv.ər/",
+    "part_of_speech": ["verb"],
+
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To find something for the first time",
+          "example": "They discovered a new planet."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "discover",
+      "past": "discovered",
+      "past_participle": "discovered",
+      "present_participle": "discovering",
+      "third_person": "discovers"
+    },
+
+    "synonyms": ["find", "detect"],
+    "antonyms": ["lose"],
+
+    "usage_examples": [
+      "Scientists discover new things.",
+      "He discovered a mistake."
+    ]
+  }
+}

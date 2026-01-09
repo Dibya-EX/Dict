@@ -1,0 +1,32 @@
+{
+  "depend": {
+    "word": "depend",
+    "phonetic": "/dɪˈpend/",
+    "part_of_speech": ["verb"],
+
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To rely on something",
+          "example": "I depend on you."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "depend",
+      "past": "depended",
+      "past_participle": "depended",
+      "present_participle": "depending",
+      "third_person": "depends"
+    },
+
+    "synonyms": ["rely", "trust"],
+    "antonyms": ["doubt"],
+
+    "usage_examples": [
+      "We depend on food.",
+      "She depends on her family."
+    ]
+  }
+}

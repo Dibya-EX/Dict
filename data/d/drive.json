@@ -1,0 +1,32 @@
+{
+  "drive": {
+    "word": "drive",
+    "phonetic": "/draɪv/",
+    "part_of_speech": ["verb"],
+
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To control a vehicle",
+          "example": "He drives a car."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "drive",
+      "past": "drove",
+      "past_participle": "driven",
+      "present_participle": "driving",
+      "third_person": "drives"
+    },
+
+    "synonyms": ["operate", "ride"],
+    "antonyms": ["stop"],
+
+    "usage_examples": [
+      "She drives fast.",
+      "I will drive today."
+    ]
+  }
+}

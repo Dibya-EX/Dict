@@ -1,0 +1,26 @@
+{
+  "document": {
+    "word": "document",
+    "phonetic": "/ˈdɒk.jʊ.mənt/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A written or printed paper",
+          "example": "Submit the document."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["file", "record"],
+    "antonyms": [],
+
+    "usage_examples": [
+      "Sign the document.",
+      "This document is important."
+    ]
+  }
+}

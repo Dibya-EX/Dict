@@ -1,0 +1,38 @@
+{
+  "delay": {
+    "word": "delay",
+    "phonetic": "/dɪˈleɪ/",
+    "part_of_speech": ["noun", "verb"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A period of waiting",
+          "example": "There was a delay."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make something late",
+          "example": "The rain delayed us."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "delay",
+      "past": "delayed",
+      "past_participle": "delayed",
+      "present_participle": "delaying",
+      "third_person": "delays"
+    },
+
+    "synonyms": ["postpone", "wait"],
+    "antonyms": ["hurry"],
+
+    "usage_examples": [
+      "The delay was long.",
+      "The flight was delayed."
+    ]
+  }
+}

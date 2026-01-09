@@ -1,0 +1,26 @@
+{
+  "data": {
+    "word": "data",
+    "phonetic": "/ˈdeɪ.tə/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Facts or information used for analysis",
+          "example": "The data was collected carefully."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["information", "facts"],
+    "antonyms": [],
+
+    "usage_examples": [
+      "The data is stored digitally.",
+      "Scientists analyze data."
+    ]
+  }
+}

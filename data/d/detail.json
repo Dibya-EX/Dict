@@ -1,0 +1,26 @@
+{
+  "detail": {
+    "word": "detail",
+    "phonetic": "/ˈdiː.teɪl/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A small part of something",
+          "example": "Every detail matters."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["information", "point"],
+    "antonyms": ["whole"],
+
+    "usage_examples": [
+      "Pay attention to detail.",
+      "The detail is important."
+    ]
+  }
+}

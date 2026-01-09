@@ -1,0 +1,26 @@
+{
+  "disease": {
+    "word": "disease",
+    "phonetic": "/dɪˈziːz/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An illness",
+          "example": "The disease is dangerous."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["illness", "sickness"],
+    "antonyms": ["health"],
+
+    "usage_examples": [
+      "The disease spread quickly.",
+      "Doctors treat disease."
+    ]
+  }
+}

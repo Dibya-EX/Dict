@@ -1,0 +1,26 @@
+{
+  "difference": {
+    "word": "difference",
+    "phonetic": "/ˈdɪf.ər.əns/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A way in which things are not the same",
+          "example": "There is a big difference."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["change", "contrast"],
+    "antonyms": ["similarity"],
+
+    "usage_examples": [
+      "Spot the difference.",
+      "There is no difference."
+    ]
+  }
+}

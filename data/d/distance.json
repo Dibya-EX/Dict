@@ -1,0 +1,26 @@
+{
+  "distance": {
+    "word": "distance",
+    "phonetic": "/ˈdɪs.təns/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The space between two points",
+          "example": "The distance is long."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["gap", "space"],
+    "antonyms": ["nearness"],
+
+    "usage_examples": [
+      "Measure the distance.",
+      "The distance is far."
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "demand": {
+    "word": "demand",
+    "phonetic": "/dɪˈmɑːnd/",
+    "part_of_speech": ["noun", "verb"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A strong request",
+          "example": "There is high demand."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To ask forcefully",
+          "example": "They demanded an answer."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "demand",
+      "past": "demanded",
+      "past_participle": "demanded",
+      "present_participle": "demanding",
+      "third_person": "demands"
+    },
+
+    "synonyms": ["request", "require"],
+    "antonyms": ["offer"],
+
+    "usage_examples": [
+      "There is great demand.",
+      "He demanded justice."
+    ]
+  }
+}

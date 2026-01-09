@@ -1,0 +1,38 @@
+{
+  "dance": {
+    "word": "dance",
+    "phonetic": "/dɑːns/",
+    "part_of_speech": ["verb", "noun"],
+
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To move rhythmically to music",
+          "example": "They danced at the party."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A series of rhythmic movements",
+          "example": "She performed a traditional dance."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "dance",
+      "past": "danced",
+      "past_participle": "danced",
+      "present_participle": "dancing",
+      "third_person": "dances"
+    },
+
+    "synonyms": ["move", "groove"],
+    "antonyms": ["stand", "rest"],
+
+    "usage_examples": [
+      "Children love to dance.",
+      "The dance was beautiful."
+    ]
+  }
+}

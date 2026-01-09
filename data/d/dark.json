@@ -1,0 +1,26 @@
+{
+  "dark": {
+    "word": "dark",
+    "phonetic": "/dɑːk/",
+    "part_of_speech": ["adjective"],
+
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Having little or no light",
+          "example": "The room was dark."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["dim", "black"],
+    "antonyms": ["bright", "light"],
+
+    "usage_examples": [
+      "It gets dark early.",
+      "She is afraid of the dark."
+    ]
+  }
+}

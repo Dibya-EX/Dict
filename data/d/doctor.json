@@ -1,0 +1,26 @@
+{
+  "doctor": {
+    "word": "doctor",
+    "phonetic": "/ˈdɒk.tər/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A person who treats sick people",
+          "example": "The doctor helped me."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["physician", "medic"],
+    "antonyms": [],
+
+    "usage_examples": [
+      "Visit the doctor.",
+      "The doctor is kind."
+    ]
+  }
+}

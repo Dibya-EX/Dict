@@ -1,0 +1,38 @@
+{
+  "dream": {
+    "word": "dream",
+    "phonetic": "/driːm/",
+    "part_of_speech": ["noun", "verb"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A series of thoughts during sleep",
+          "example": "I had a dream."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To imagine or hope",
+          "example": "I dream of success."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "dream",
+      "past": "dreamed",
+      "past_participle": "dreamed",
+      "present_participle": "dreaming",
+      "third_person": "dreams"
+    },
+
+    "synonyms": ["hope", "wish"],
+    "antonyms": ["reality"],
+
+    "usage_examples": [
+      "Follow your dream.",
+      "She dreams big."
+    ]
+  }
+}

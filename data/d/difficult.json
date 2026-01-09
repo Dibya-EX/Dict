@@ -1,0 +1,26 @@
+{
+  "difficult": {
+    "word": "difficult",
+    "phonetic": "/ˈdɪf.ɪ.kəlt/",
+    "part_of_speech": ["adjective"],
+
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Hard to do or understand",
+          "example": "The test was difficult."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["hard", "challenging"],
+    "antonyms": ["easy"],
+
+    "usage_examples": [
+      "This task is difficult.",
+      "Math is difficult."
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "design": {
+    "word": "design",
+    "phonetic": "/dɪˈzaɪn/",
+    "part_of_speech": ["noun", "verb"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A plan or pattern",
+          "example": "The design is modern."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To create a plan",
+          "example": "She designs clothes."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "design",
+      "past": "designed",
+      "past_participle": "designed",
+      "present_participle": "designing",
+      "third_person": "designs"
+    },
+
+    "synonyms": ["plan", "create"],
+    "antonyms": ["destroy"],
+
+    "usage_examples": [
+      "The design is beautiful.",
+      "He designs buildings."
+    ]
+  }
+}

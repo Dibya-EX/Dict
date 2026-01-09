@@ -1,0 +1,38 @@
+{
+  "damage": {
+    "word": "damage",
+    "phonetic": "/ˈdæm.ɪdʒ/",
+    "part_of_speech": ["noun", "verb"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Physical harm",
+          "example": "The storm caused damage."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To harm something",
+          "example": "The fire damaged the house."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "damage",
+      "past": "damaged",
+      "past_participle": "damaged",
+      "present_participle": "damaging",
+      "third_person": "damages"
+    },
+
+    "synonyms": ["harm", "ruin"],
+    "antonyms": ["repair"],
+
+    "usage_examples": [
+      "The damage was serious.",
+      "The car was damaged."
+    ]
+  }
+}

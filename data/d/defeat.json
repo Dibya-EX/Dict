@@ -1,0 +1,38 @@
+{
+  "defeat": {
+    "word": "defeat",
+    "phonetic": "/dɪˈfiːt/",
+    "part_of_speech": ["verb", "noun"],
+
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To win against someone",
+          "example": "They defeated the opponent."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "Failure to win",
+          "example": "It was a painful defeat."
+        }
+      ]
+    },
+
+    "tense_forms": {
+      "base": "defeat",
+      "past": "defeated",
+      "past_participle": "defeated",
+      "present_participle": "defeating",
+      "third_person": "defeats"
+    },
+
+    "synonyms": ["beat", "overcome"],
+    "antonyms": ["victory", "win"],
+
+    "usage_examples": [
+      "They defeated the enemy.",
+      "The defeat shocked everyone."
+    ]
+  }
+}

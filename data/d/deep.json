@@ -1,0 +1,26 @@
+{
+  "deep": {
+    "word": "deep",
+    "phonetic": "/diːp/",
+    "part_of_speech": ["adjective"],
+
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Extending far down from the surface",
+          "example": "The lake is very deep."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["profound", "intense"],
+    "antonyms": ["shallow"],
+
+    "usage_examples": [
+      "She took a deep breath.",
+      "The well is deep."
+    ]
+  }
+}
