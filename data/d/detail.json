@@ -2,7 +2,7 @@
   "detail": {
     "word": "detail",
     "phonetic": "/ˈdiː.teɪl/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,31 @@
           "definition": "A small part of something",
           "example": "Every detail matters."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To describe something fully and clearly",
+          "example": "She detailed the plan carefully."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "detail",
+      "past": "detailed",
+      "past_participle": "detailed",
+      "present_participle": "detailing",
+      "third_person": "details"
+    },
 
-    "synonyms": ["information", "point"],
-    "antonyms": ["whole"],
+    "synonyms": ["information", "point", "describe"],
+    "antonyms": ["ignore", "whole"],
 
     "usage_examples": [
       "Pay attention to detail.",
-      "The detail is important."
+      "The detail is important.",
+      "Please detail your idea.",
+      "She detailed the report."
     ]
   }
 }

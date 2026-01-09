@@ -2,7 +2,7 @@
   "device": {
     "word": "device",
     "phonetic": "/dɪˈvaɪs/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "A tool or machine made for a purpose",
           "example": "This device saves energy."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To invent or design something",
+          "example": "She devised a new plan."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "device",
+      "past": "devised",
+      "past_participle": "devised",
+      "present_participle": "devising",
+      "third_person": "devises"
+    },
 
-    "synonyms": ["machine", "tool"],
-    "antonyms": [],
+    "synonyms": ["machine", "tool", "devise"],
+    "antonyms": ["destroy"],
 
     "usage_examples": [
       "This device is useful.",
-      "He bought a new device."
+      "He bought a new device.",
+      "She devised a clever solution."
     ]
   }
 }

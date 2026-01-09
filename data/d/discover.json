@@ -2,13 +2,19 @@
   "discover": {
     "word": "discover",
     "phonetic": "/dɪˈskʌv.ər/",
-    "part_of_speech": ["verb"],
+    "part_of_speech": ["verb", "noun"],
 
     "meanings": {
       "verb": [
         {
           "definition": "To find something for the first time",
           "example": "They discovered a new planet."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "The act of finding something new",
+          "example": "The discover of the new species amazed scientists."
         }
       ]
     },
@@ -21,12 +27,13 @@
       "third_person": "discovers"
     },
 
-    "synonyms": ["find", "detect"],
-    "antonyms": ["lose"],
+    "synonyms": ["find", "detect", "discovery"],
+    "antonyms": ["lose", "overlook"],
 
     "usage_examples": [
       "Scientists discover new things.",
-      "He discovered a mistake."
+      "He discovered a mistake.",
+      "The discover changed everything."
     ]
   }
 }

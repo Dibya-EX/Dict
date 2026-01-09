@@ -2,7 +2,7 @@
   "disease": {
     "word": "disease",
     "phonetic": "/dɪˈziːz/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "An illness",
           "example": "The disease is dangerous."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To cause illness or infection",
+          "example": "The contaminated water diseased many people."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "disease",
+      "past": "diseased",
+      "past_participle": "diseased",
+      "present_participle": "diseasing",
+      "third_person": "diseases"
+    },
 
-    "synonyms": ["illness", "sickness"],
-    "antonyms": ["health"],
+    "synonyms": ["illness", "sickness", "infect"],
+    "antonyms": ["health", "cure"],
 
     "usage_examples": [
       "The disease spread quickly.",
-      "Doctors treat disease."
+      "Doctors treat disease.",
+      "The water diseased the villagers."
     ]
   }
 }

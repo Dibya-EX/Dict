@@ -2,13 +2,19 @@
   "drive": {
     "word": "drive",
     "phonetic": "/draɪv/",
-    "part_of_speech": ["verb"],
+    "part_of_speech": ["verb", "noun"],
 
     "meanings": {
       "verb": [
         {
           "definition": "To control a vehicle",
           "example": "He drives a car."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A journey in a vehicle or an effort to achieve something",
+          "example": "We went for a drive in the afternoon."
         }
       ]
     },
@@ -21,12 +27,13 @@
       "third_person": "drives"
     },
 
-    "synonyms": ["operate", "ride"],
-    "antonyms": ["stop"],
+    "synonyms": ["operate", "ride", "journey"],
+    "antonyms": ["stop", "park"],
 
     "usage_examples": [
       "She drives fast.",
-      "I will drive today."
+      "I will drive today.",
+      "We went for a drive in the countryside."
     ]
   }
 }

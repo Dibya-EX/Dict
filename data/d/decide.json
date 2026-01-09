@@ -1,32 +1,33 @@
 {
-  "decide": {
-    "word": "decide",
-    "phonetic": "/dɪˈsaɪd/",
-    "part_of_speech": ["verb"],
-
-    "meanings": {
-      "verb": [
-        {
-          "definition": "To make a choice",
-          "example": "She decided to study medicine."
-        }
-      ]
-    },
-
-    "tense_forms": {
-      "base": "decide",
-      "past": "decided",
-      "past_participle": "decided",
-      "present_participle": "deciding",
-      "third_person": "decides"
-    },
-
-    "synonyms": ["choose", "determine"],
-    "antonyms": ["hesitate"],
-
-    "usage_examples": [
-      "Decide wisely.",
-      "He decided quickly."
-    ]
-  }
+ "word": "decide",
+ "phonetic": "/dɪˈsaɪd/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To make a choice",
+    "example": "She decided to go."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "The act of making a choice",
+    "example": "The decide was difficult."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "decide",
+  "past": "decided",
+  "past_participle": "decided",
+  "present_participle": "deciding",
+  "third_person": "decides"
+ },
+ "synonyms": ["choose", "select"],
+ "antonyms": ["hesitate"],
+ "usage_examples": [
+  "Decide quickly.",
+  "He decided today.",
+  "Her decide came late."
+ ]
 }

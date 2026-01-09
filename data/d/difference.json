@@ -2,7 +2,7 @@
   "difference": {
     "word": "difference",
     "phonetic": "/ˈdɪf.ər.əns/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "A way in which things are not the same",
           "example": "There is a big difference."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To make or show a difference between things",
+          "example": "These results difference the two groups clearly."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "difference",
+      "past": "differenced",
+      "past_participle": "differenced",
+      "present_participle": "differencing",
+      "third_person": "differences"
+    },
 
-    "synonyms": ["change", "contrast"],
-    "antonyms": ["similarity"],
+    "synonyms": ["change", "contrast", "distinguish"],
+    "antonyms": ["similarity", "match"],
 
     "usage_examples": [
       "Spot the difference.",
-      "There is no difference."
+      "There is no difference.",
+      "The study differences the results."
     ]
   }
 }

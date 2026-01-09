@@ -2,7 +2,7 @@
   "duty": {
     "word": "duty",
     "phonetic": "/ˈdjuː.ti/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "A responsibility",
           "example": "It is my duty."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To perform one’s responsibility or task",
+          "example": "He dutied his role diligently."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "duty",
+      "past": "dutied",
+      "past_participle": "dutied",
+      "present_participle": "dutying",
+      "third_person": "duties"
+    },
 
-    "synonyms": ["responsibility", "task"],
-    "antonyms": ["freedom"],
+    "synonyms": ["responsibility", "task", "obligate"],
+    "antonyms": ["freedom", "neglect"],
 
     "usage_examples": [
       "Do your duty.",
-      "Duty comes first."
+      "Duty comes first.",
+      "He dutied his assignment carefully."
     ]
   }
 }

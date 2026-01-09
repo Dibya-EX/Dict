@@ -1,26 +1,39 @@
 {
-  "dark": {
-    "word": "dark",
-    "phonetic": "/dɑːk/",
-    "part_of_speech": ["adjective"],
-
-    "meanings": {
-      "adjective": [
-        {
-          "definition": "Having little or no light",
-          "example": "The room was dark."
-        }
-      ]
-    },
-
-    "tense_forms": null,
-
-    "synonyms": ["dim", "black"],
-    "antonyms": ["bright", "light"],
-
-    "usage_examples": [
-      "It gets dark early.",
-      "She is afraid of the dark."
-    ]
-  }
+ "word": "dark",
+ "phonetic": "/dɑːk/",
+ "part_of_speech": ["adjective", "noun", "verb"],
+ "meanings": {
+  "adjective": [
+   {
+    "definition": "Having little or no light",
+    "example": "The room was dark."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "The absence of light",
+    "example": "The dark made it hard to see."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To make something dark or less bright",
+    "example": "Clouds darked the sky."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "dark",
+  "past": "darked",
+  "past_participle": "darked",
+  "present_participle": "darking",
+  "third_person": "darks"
+ },
+ "synonyms": ["dim", "black", "gloomy"],
+ "antonyms": ["bright", "light"],
+ "usage_examples": [
+  "It is dark outside.",
+  "The cave was dark.",
+  "The sky darked suddenly."
+ ]
 }

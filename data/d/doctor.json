@@ -2,7 +2,7 @@
   "doctor": {
     "word": "doctor",
     "phonetic": "/ˈdɒk.tər/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "A person who treats sick people",
           "example": "The doctor helped me."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To treat medically or to alter dishonestly",
+          "example": "She doctored the patient after the accident."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "doctor",
+      "past": "doctored",
+      "past_participle": "doctored",
+      "present_participle": "doctoring",
+      "third_person": "doctors"
+    },
 
-    "synonyms": ["physician", "medic"],
-    "antonyms": [],
+    "synonyms": ["physician", "medic", "treat"],
+    "antonyms": ["neglect"],
 
     "usage_examples": [
       "Visit the doctor.",
-      "The doctor is kind."
+      "The doctor is kind.",
+      "He doctored the injured child carefully."
     ]
   }
 }

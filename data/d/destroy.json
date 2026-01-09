@@ -2,13 +2,19 @@
   "destroy": {
     "word": "destroy",
     "phonetic": "/dɪˈstrɔɪ/",
-    "part_of_speech": ["verb"],
+    "part_of_speech": ["verb", "noun"],
 
     "meanings": {
       "verb": [
         {
           "definition": "To ruin completely",
           "example": "The fire destroyed the house."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "The act of destroying something",
+          "example": "The destroy of the building shocked everyone."
         }
       ]
     },
@@ -21,12 +27,13 @@
       "third_person": "destroys"
     },
 
-    "synonyms": ["ruin", "demolish"],
-    "antonyms": ["build"],
+    "synonyms": ["ruin", "demolish", "destruction"],
+    "antonyms": ["build", "create"],
 
     "usage_examples": [
       "War destroys cities.",
-      "The building was destroyed."
+      "The building was destroyed.",
+      "The destroy of the town was tragic."
     ]
   }
 }

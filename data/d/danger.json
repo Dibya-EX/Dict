@@ -2,7 +2,7 @@
   "danger": {
     "word": "danger",
     "phonetic": "/ˈdeɪn.dʒər/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "The possibility of harm or injury",
           "example": "The children were in danger."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To expose someone or something to risk",
+          "example": "His careless actions may danger others."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "danger",
+      "past": "dangered",
+      "past_participle": "dangered",
+      "present_participle": "dangering",
+      "third_person": "dangers"
+    },
 
-    "synonyms": ["risk", "threat", "hazard"],
-    "antonyms": ["safety", "security"],
+    "synonyms": ["risk", "threaten", "endanger"],
+    "antonyms": ["protect", "secure"],
 
     "usage_examples": [
-      "Smoking poses a serious danger to health.",
-      "He put himself in danger."
+      "Fire is a great danger.",
+      "He was in danger.",
+      "Reckless driving can danger lives."
     ]
   }
 }

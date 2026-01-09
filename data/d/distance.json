@@ -2,7 +2,7 @@
   "distance": {
     "word": "distance",
     "phonetic": "/ˈdɪs.təns/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "The space between two points",
           "example": "The distance is long."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To keep apart or move away",
+          "example": "He distanced himself from the argument."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "distance",
+      "past": "distanced",
+      "past_participle": "distanced",
+      "present_participle": "distancing",
+      "third_person": "distances"
+    },
 
-    "synonyms": ["gap", "space"],
-    "antonyms": ["nearness"],
+    "synonyms": ["gap", "space", "separate"],
+    "antonyms": ["nearness", "approach"],
 
     "usage_examples": [
       "Measure the distance.",
-      "The distance is far."
+      "The distance is far.",
+      "She distanced herself from the conflict."
     ]
   }
 }

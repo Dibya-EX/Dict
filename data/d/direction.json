@@ -2,7 +2,7 @@
   "direction": {
     "word": "direction",
     "phonetic": "/dəˈrek.ʃən/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "The way something moves",
           "example": "Follow the direction."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To guide or manage the course of something",
+          "example": "He directioned the team carefully."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "direction",
+      "past": "directioned",
+      "past_participle": "directioned",
+      "present_participle": "directioning",
+      "third_person": "directions"
+    },
 
-    "synonyms": ["path", "way"],
-    "antonyms": ["confusion"],
+    "synonyms": ["path", "way", "guide"],
+    "antonyms": ["confusion", "misguide"],
 
     "usage_examples": [
       "He went in the wrong direction.",
-      "Follow the direction."
+      "Follow the direction.",
+      "She directioned the project effectively."
     ]
   }
 }

@@ -2,7 +2,7 @@
   "decision": {
     "word": "decision",
     "phonetic": "/dɪˈsɪʒ.ən/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "A choice that is made",
           "example": "It was a hard decision."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To decide or determine formally",
+          "example": "The committee decisioned the final plan."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "decision",
+      "past": "decisioned",
+      "past_participle": "decisioned",
+      "present_participle": "decisioning",
+      "third_person": "decisions"
+    },
 
-    "synonyms": ["choice", "judgment"],
-    "antonyms": ["doubt"],
+    "synonyms": ["choice", "judgment", "decide"],
+    "antonyms": ["doubt", "hesitation"],
 
     "usage_examples": [
       "Make a decision.",
-      "Her decision was right."
+      "Her decision was right.",
+      "The board decisioned the proposal."
     ]
   }
 }

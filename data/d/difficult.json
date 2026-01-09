@@ -2,7 +2,7 @@
   "difficult": {
     "word": "difficult",
     "phonetic": "/ˈdɪf.ɪ.kəlt/",
-    "part_of_speech": ["adjective"],
+    "part_of_speech": ["adjective", "noun", "verb"],
 
     "meanings": {
       "adjective": [
@@ -10,17 +10,36 @@
           "definition": "Hard to do or understand",
           "example": "The test was difficult."
         }
+      ],
+      "noun": [
+        {
+          "definition": "Something that is hard to do or overcome",
+          "example": "She faced many difficults in her life."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make something hard or complicated",
+          "example": "The new rules difficulted the process."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "difficult",
+      "past": "difficulted",
+      "past_participle": "difficulted",
+      "present_participle": "difficulting",
+      "third_person": "difficults"
+    },
 
-    "synonyms": ["hard", "challenging"],
-    "antonyms": ["easy"],
+    "synonyms": ["hard", "challenging", "complicate"],
+    "antonyms": ["easy", "simple"],
 
     "usage_examples": [
       "This task is difficult.",
-      "Math is difficult."
+      "Math is difficult.",
+      "The new procedure difficulted the workflow."
     ]
   }
 }

@@ -2,7 +2,7 @@
   "deep": {
     "word": "deep",
     "phonetic": "/diːp/",
-    "part_of_speech": ["adjective"],
+    "part_of_speech": ["adjective", "noun", "verb"],
 
     "meanings": {
       "adjective": [
@@ -10,17 +10,36 @@
           "definition": "Extending far down from the surface",
           "example": "The lake is very deep."
         }
+      ],
+      "noun": [
+        {
+          "definition": "The deepest part of something",
+          "example": "The ship sank into the deep."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make or become deeper",
+          "example": "The river deeped after the rain."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "deep",
+      "past": "deeped",
+      "past_participle": "deeped",
+      "present_participle": "deeping",
+      "third_person": "deeps"
+    },
 
-    "synonyms": ["profound", "intense"],
+    "synonyms": ["profound", "intense", "deepen"],
     "antonyms": ["shallow"],
 
     "usage_examples": [
       "She took a deep breath.",
-      "The well is deep."
+      "The well is deep.",
+      "The water deeped quickly."
     ]
   }
 }

@@ -2,7 +2,7 @@
   "document": {
     "word": "document",
     "phonetic": "/ˈdɒk.jʊ.mənt/",
-    "part_of_speech": ["noun"],
+    "part_of_speech": ["noun", "verb"],
 
     "meanings": {
       "noun": [
@@ -10,17 +10,30 @@
           "definition": "A written or printed paper",
           "example": "Submit the document."
         }
+      ],
+      "verb": [
+        {
+          "definition": "To record information in written or electronic form",
+          "example": "Please document all the steps carefully."
+        }
       ]
     },
 
-    "tense_forms": null,
+    "tense_forms": {
+      "base": "document",
+      "past": "documented",
+      "past_participle": "documented",
+      "present_participle": "documenting",
+      "third_person": "documents"
+    },
 
-    "synonyms": ["file", "record"],
-    "antonyms": [],
+    "synonyms": ["file", "record", "register"],
+    "antonyms": ["erase", "ignore"],
 
     "usage_examples": [
       "Sign the document.",
-      "This document is important."
+      "This document is important.",
+      "They documented the procedure."
     ]
   }
 }

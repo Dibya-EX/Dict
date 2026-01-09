@@ -2,13 +2,19 @@
   "discuss": {
     "word": "discuss",
     "phonetic": "/dɪˈskʌs/",
-    "part_of_speech": ["verb"],
+    "part_of_speech": ["verb", "noun"],
 
     "meanings": {
       "verb": [
         {
           "definition": "To talk about something",
           "example": "They discussed the problem."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A discussion or conversation about something",
+          "example": "The discuss lasted for hours."
         }
       ]
     },
@@ -21,12 +27,13 @@
       "third_person": "discusses"
     },
 
-    "synonyms": ["talk", "debate"],
-    "antonyms": ["ignore"],
+    "synonyms": ["talk", "debate", "discussion"],
+    "antonyms": ["ignore", "neglect"],
 
     "usage_examples": [
       "Let’s discuss it.",
-      "They discussed the plan."
+      "They discussed the plan.",
+      "The discuss was productive."
     ]
   }
 }
