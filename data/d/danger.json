@@ -1,0 +1,26 @@
+{
+  "danger": {
+    "word": "danger",
+    "phonetic": "/ˈdeɪn.dʒər/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The possibility of harm or injury",
+          "example": "The children were in danger."
+        }
+      ]
+    },
+
+    "tense_forms": null,
+
+    "synonyms": ["risk", "threat", "hazard"],
+    "antonyms": ["safety", "security"],
+
+    "usage_examples": [
+      "Smoking poses a serious danger to health.",
+      "He put himself in danger."
+    ]
+  }
+}
