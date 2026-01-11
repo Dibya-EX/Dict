@@ -1,0 +1,36 @@
+{
+ "word": "young",
+ "phonetic": "/jʌŋ/",
+ "part_of_speech": ["noun", "verb"],
+
+ "meanings": {
+  "noun": [
+   {
+    "definition": "Young people collectively",
+    "example": "The young should be guided properly."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To make or become young again",
+    "example": "A healthy lifestyle can young the body."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "young",
+  "past": "younged",
+  "past_participle": "younged",
+  "present_participle": "younging",
+  "third_person": "youngs"
+ },
+
+ "synonyms": ["youth", "rejuvenate"],
+ "antonyms": ["age", "grow old"],
+
+ "usage_examples": [
+  "The young need education.",
+  "Exercise youngs the mind."
+ ]
+}
