@@ -1,0 +1,23 @@
+{
+ "word": "form",
+ "phonetic": "/fɔːrm/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   { "definition": "Shape or structure", "example": "Fill the form." }
+  ],
+  "verb": [
+   { "definition": "To create", "example": "Form a group." }
+  ]
+ },
+ "tense_forms": {
+  "base": "form",
+  "past": "formed",
+  "past_participle": "formed",
+  "present_participle": "forming",
+  "third_person": "forms"
+ },
+ "synonyms": ["shape", "create"],
+ "antonyms": ["destroy"],
+ "usage_examples": ["Fill the form."]
+}

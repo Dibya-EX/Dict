@@ -1,0 +1,35 @@
+{
+ "word": "flee",
+ "phonetic": "/fliː/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To run away from danger",
+    "example": "The villagers fled from the fire."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A rapid escape",
+    "example": "Their flee saved them from harm."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "flee",
+  "past": "fled",
+  "past_participle": "fled",
+  "present_participle": "fleeing",
+  "third_person": "flees"
+ },
+
+ "synonyms": ["escape", "run away"],
+ "antonyms": ["stay", "remain"],
+ "usage_examples": [
+  "They flee the danger.",
+  "Their flee was successful."
+ ]
+}

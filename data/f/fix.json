@@ -1,0 +1,35 @@
+{
+ "word": "fix",
+ "phonetic": "/fɪks/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To repair or make something right",
+    "example": "He fixed the broken chair."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A solution or repair",
+    "example": "We need a quick fix for this problem."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fix",
+  "past": "fixed",
+  "past_participle": "fixed",
+  "present_participle": "fixing",
+  "third_person": "fixes"
+ },
+
+ "synonyms": ["repair", "mend"],
+ "antonyms": ["break", "damage"],
+ "usage_examples": [
+  "Can you fix this watch?",
+  "The fix worked perfectly."
+ ]
+}

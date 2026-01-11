@@ -1,0 +1,37 @@
+{
+ "word": "family",
+ "phonetic": "/ˈfæm.əl.i/",
+ "part_of_speech": ["noun", "verb"],
+
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A group of people related by blood or marriage",
+    "example": "She lives with her family."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To form or organize into a family",
+    "example": "They familyed the orphaned children."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "family",
+  "past": "familied",
+  "past_participle": "familied",
+  "present_participle": "familying",
+  "third_person": "families"
+ },
+
+ "synonyms": ["relatives", "household", "group"],
+ "antonyms": [],
+
+ "usage_examples": [
+  "Family comes first.",
+  "He loves his family.",
+  "They familied the children under one roof."
+ ]
+}

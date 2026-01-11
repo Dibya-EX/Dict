@@ -1,0 +1,23 @@
+{
+ "word": "flood",
+ "phonetic": "/flʌd/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   { "definition": "A large amount of water", "example": "The flood damaged homes." }
+  ],
+  "verb": [
+   { "definition": "To cover with water", "example": "The river flooded." }
+  ]
+ },
+ "tense_forms": {
+  "base": "flood",
+  "past": "flooded",
+  "past_participle": "flooded",
+  "present_participle": "flooding",
+  "third_person": "floods"
+ },
+ "synonyms": ["overflow"],
+ "antonyms": ["dry"],
+ "usage_examples": ["The area flooded."]
+}

@@ -1,0 +1,35 @@
+{
+ "word": "freeze",
+ "phonetic": "/friːz/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To turn into ice or become very cold",
+    "example": "Water freezes at 0°C."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A period of very cold weather",
+    "example": "The winter freeze lasted weeks."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "freeze",
+  "past": "froze",
+  "past_participle": "frozen",
+  "present_participle": "freezing",
+  "third_person": "freezes"
+ },
+
+ "synonyms": ["ice", "solidify"],
+ "antonyms": ["melt"],
+ "usage_examples": [
+  "The lake freezes in winter.",
+  "The freeze damaged crops."
+ ]
+}

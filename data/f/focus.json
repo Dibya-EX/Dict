@@ -1,0 +1,23 @@
+{
+ "word": "focus",
+ "phonetic": "/ˈfəʊ.kəs/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   { "definition": "To concentrate", "example": "Focus on work." }
+  ],
+  "noun": [
+   { "definition": "Main point of attention", "example": "Study is the focus." }
+  ]
+ },
+ "tense_forms": {
+  "base": "focus",
+  "past": "focused",
+  "past_participle": "focused",
+  "present_participle": "focusing",
+  "third_person": "focuses"
+ },
+ "synonyms": ["concentrate"],
+ "antonyms": ["distract"],
+ "usage_examples": ["Focus well."]
+}

@@ -1,0 +1,35 @@
+{
+ "word": "fetch",
+ "phonetic": "/fetʃ/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To go and bring something back",
+    "example": "Please fetch me a glass of water."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "The act of going to get something",
+    "example": "The dog loves a game of fetch."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fetch",
+  "past": "fetched",
+  "past_participle": "fetched",
+  "present_participle": "fetching",
+  "third_person": "fetches"
+ },
+
+ "synonyms": ["bring", "retrieve"],
+ "antonyms": [],
+ "usage_examples": [
+  "Can you fetch the newspaper?",
+  "The dog enjoyed a game of fetch."
+ ]
+}

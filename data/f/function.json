@@ -1,0 +1,35 @@
+{
+ "word": "function",
+ "phonetic": "/ˈfʌŋk.ʃən/",
+ "part_of_speech": ["noun", "verb"],
+
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A purpose, role, or activity",
+    "example": "The heart has a vital function."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To work or operate in a proper way",
+    "example": "The machine functions well."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "function",
+  "past": "functioned",
+  "past_participle": "functioned",
+  "present_participle": "functioning",
+  "third_person": "functions"
+ },
+
+ "synonyms": ["purpose", "operate"],
+ "antonyms": ["malfunction", "break"],
+ "usage_examples": [
+  "The function of the device is clear.",
+  "The machine functions properly."
+ ]
+}

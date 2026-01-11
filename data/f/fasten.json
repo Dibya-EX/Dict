@@ -1,0 +1,35 @@
+{
+ "word": "fasten",
+ "phonetic": "/ˈfæs.ən/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To attach or secure something",
+    "example": "Fasten your seatbelt."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A device used to secure or attach",
+    "example": "The fasten on the bag broke."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fasten",
+  "past": "fastened",
+  "past_participle": "fastened",
+  "present_participle": "fastening",
+  "third_person": "fastens"
+ },
+
+ "synonyms": ["attach", "secure"],
+ "antonyms": ["loosen", "detach"],
+ "usage_examples": [
+  "Please fasten your seatbelt.",
+  "The fasten of the door is broken."
+ ]
+}

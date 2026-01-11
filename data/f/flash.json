@@ -1,0 +1,35 @@
+{
+ "word": "flash",
+ "phonetic": "/flæʃ/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To shine suddenly and briefly",
+    "example": "The camera flashed in his face."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A sudden brief burst of light",
+    "example": "A flash of lightning lit the sky."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "flash",
+  "past": "flashed",
+  "past_participle": "flashed",
+  "present_participle": "flashing",
+  "third_person": "flashes"
+ },
+
+ "synonyms": ["glimmer", "shine"],
+ "antonyms": ["dim"],
+ "usage_examples": [
+  "The light flashed.",
+  "A flash appeared in the sky."
+ ]
+}

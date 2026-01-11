@@ -1,0 +1,36 @@
+{
+ "word": "favor",
+ "phonetic": "/ˈfeɪ.vər/",
+ "part_of_speech": ["noun", "verb"],
+
+ "meanings": {
+  "noun": [
+   {
+    "definition": "An act of kindness",
+    "example": "Can you do me a favor?"
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To support or prefer someone or something",
+    "example": "The teacher favored the hardworking students."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "favor",
+  "past": "favored",
+  "past_participle": "favored",
+  "present_participle": "favoring",
+  "third_person": "favors"
+ },
+
+ "synonyms": ["kindness", "help", "support"],
+ "antonyms": ["disfavor", "ignore"],
+
+ "usage_examples": [
+  "She did me a favor.",
+  "He favors the blue option."
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "word": "force",
+ "phonetic": "/fɔːrs/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   { "definition": "Strength or power", "example": "Use force." }
+  ],
+  "verb": [
+   { "definition": "To make someone do something", "example": "Do not force him." }
+  ]
+ },
+ "tense_forms": {
+  "base": "force",
+  "past": "forced",
+  "past_participle": "forced",
+  "present_participle": "forcing",
+  "third_person": "forces"
+ },
+ "synonyms": ["power", "push"],
+ "antonyms": ["weakness"],
+ "usage_examples": ["Do not use force."]
+}

@@ -1,0 +1,23 @@
+{
+ "word": "fall",
+ "phonetic": "/fɔːl/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   { "definition": "To drop down", "example": "He fell." }
+  ],
+  "noun": [
+   { "definition": "The act of falling", "example": "It was a bad fall." }
+  ]
+ },
+ "tense_forms": {
+  "base": "fall",
+  "past": "fell",
+  "past_participle": "fallen",
+  "present_participle": "falling",
+  "third_person": "falls"
+ },
+ "synonyms": ["drop", "slip"],
+ "antonyms": ["rise"],
+ "usage_examples": ["Do not fall."]
+}

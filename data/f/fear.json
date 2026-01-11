@@ -1,0 +1,23 @@
+{
+ "word": "fear",
+ "phonetic": "/fɪər/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   { "definition": "A feeling of being afraid", "example": "He has fear." }
+  ],
+  "verb": [
+   { "definition": "To be afraid", "example": "She fears snakes." }
+  ]
+ },
+ "tense_forms": {
+  "base": "fear",
+  "past": "feared",
+  "past_participle": "feared",
+  "present_participle": "fearing",
+  "third_person": "fears"
+ },
+ "synonyms": ["fright", "worry"],
+ "antonyms": ["bravery"],
+ "usage_examples": ["Do not fear."]
+}

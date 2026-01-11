@@ -1,0 +1,40 @@
+{
+ "word": "fuck",
+ "phonetic": "/fʌk/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To have sexual intercourse (vulgar slang)",
+    "example": "The word is often used in informal or rude speech."
+   },
+   {
+    "definition": "To damage, ruin, or mess something up (slang)",
+    "example": "He fucked the whole plan."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "An act of sexual intercourse (vulgar slang)",
+    "example": "The word is considered offensive in polite language."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fuck",
+  "past": "fucked",
+  "past_participle": "fucked",
+  "present_participle": "fucking",
+  "third_person": "fucks"
+ },
+
+ "synonyms": ["ruin", "mess up", "screw"],
+ "antonyms": ["fix", "improve"],
+
+ "usage_examples": [
+  "Do not use this word in formal situations.",
+  "He fucked up the project."
+ ]
+}

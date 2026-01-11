@@ -1,0 +1,36 @@
+{
+ "word": "fair",
+ "phonetic": "/fer/",
+ "part_of_speech": ["noun", "verb"],
+
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A public event where people sell goods and enjoy games or rides",
+    "example": "We went to the book fair."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To be successful or perform in a certain way",
+    "example": "She fared well in the exam."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fair",
+  "past": "fared",
+  "past_participle": "fared",
+  "present_participle": "faring",
+  "third_person": "fares"
+ },
+
+ "synonyms": ["market", "exhibition", "succeed"],
+ "antonyms": ["fail"],
+
+ "usage_examples": [
+  "We visited the fair.",
+  "He fared well in the competition."
+ ]
+}

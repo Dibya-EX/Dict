@@ -1,0 +1,23 @@
+{
+ "word": "fire",
+ "phonetic": "/faɪər/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   { "definition": "Flames and heat", "example": "The fire was hot." }
+  ],
+  "verb": [
+   { "definition": "To burn or shoot", "example": "Fire the gun." }
+  ]
+ },
+ "tense_forms": {
+  "base": "fire",
+  "past": "fired",
+  "past_participle": "fired",
+  "present_participle": "firing",
+  "third_person": "fires"
+ },
+ "synonyms": ["flame", "burn"],
+ "antonyms": ["water"],
+ "usage_examples": ["The house caught fire."]
+}

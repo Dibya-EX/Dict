@@ -1,0 +1,35 @@
+{
+ "word": "frame",
+ "phonetic": "/freɪm/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To construct or enclose with a frame",
+    "example": "He framed the picture on the wall."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A structure that supports or encloses something",
+    "example": "The frame of the house is strong."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "frame",
+  "past": "framed",
+  "past_participle": "framed",
+  "present_participle": "framing",
+  "third_person": "frames"
+ },
+
+ "synonyms": ["structure", "enclose"],
+ "antonyms": ["dismantle"],
+ "usage_examples": [
+  "He framed the painting carefully.",
+  "The frame broke during the move."
+ ]
+}

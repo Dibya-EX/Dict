@@ -1,0 +1,35 @@
+{
+ "word": "fold",
+ "phonetic": "/foʊld/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To bend something over itself",
+    "example": "She folded the letter."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A crease or bend made by folding",
+    "example": "The paper has a fold in the middle."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fold",
+  "past": "folded",
+  "past_participle": "folded",
+  "present_participle": "folding",
+  "third_person": "folds"
+ },
+
+ "synonyms": ["bend", "crease"],
+ "antonyms": ["unfold"],
+ "usage_examples": [
+  "Fold the clothes neatly.",
+  "He noticed a fold in the map."
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "word": "flow",
+ "phonetic": "/floʊ/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To move steadily in a stream or current",
+    "example": "The river flows to the sea."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "The movement of something in a steady stream",
+    "example": "The flow of traffic was slow."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "flow",
+  "past": "flowed",
+  "past_participle": "flowed",
+  "present_participle": "flowing",
+  "third_person": "flows"
+ },
+
+ "synonyms": ["stream", "move"],
+ "antonyms": ["stop"],
+ "usage_examples": [
+  "Water flows down the hill.",
+  "The flow of electricity is steady."
+ ]
+}

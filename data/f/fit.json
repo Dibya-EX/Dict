@@ -1,0 +1,36 @@
+{
+ "word": "fit",
+ "phonetic": "/fɪt/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To be the right size or suitable",
+    "example": "This shirt fits me."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A sudden burst of strong emotion or activity",
+    "example": "He had a fit of anger."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fit",
+  "past": "fit",
+  "past_participle": "fit",
+  "present_participle": "fitting",
+  "third_person": "fits"
+ },
+
+ "synonyms": ["suit", "match"],
+ "antonyms": ["misfit"],
+
+ "usage_examples": [
+  "The shoes fit perfectly.",
+  "He had a fit of laughter."
+ ]
+}

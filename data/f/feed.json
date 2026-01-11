@@ -1,0 +1,35 @@
+{
+ "word": "feed",
+ "phonetic": "/fiːd/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To give food to someone or something",
+    "example": "She feeds the baby every morning."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "Food given to animals or people",
+    "example": "The horse needs a feed."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "feed",
+  "past": "fed",
+  "past_participle": "fed",
+  "present_participle": "feeding",
+  "third_person": "feeds"
+ },
+
+ "synonyms": ["nourish", "provide food"],
+ "antonyms": ["starve"],
+ "usage_examples": [
+  "I feed my cat daily.",
+  "The farmer prepared the feed for the cows."
+ ]
+}

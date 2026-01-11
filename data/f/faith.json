@@ -1,0 +1,24 @@
+{
+ "word": "faith",
+ "phonetic": "/feɪθ/",
+ "part_of_speech": ["noun"],
+
+ "meanings": {
+  "noun": [
+   {
+    "definition": "Strong belief or trust in someone or something",
+    "example": "She has faith in her friends."
+   }
+  ]
+ },
+
+ "tense_forms": null,
+
+ "synonyms": ["belief", "trust", "confidence"],
+ "antonyms": ["doubt", "disbelief"],
+
+ "usage_examples": [
+  "Have faith in yourself.",
+  "His faith was strong."
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "word": "float",
+ "phonetic": "/floʊt/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To rest or move on the surface of a liquid",
+    "example": "The boat floats on water."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "An object that floats",
+    "example": "The float carried the decorations."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "float",
+  "past": "floated",
+  "past_participle": "floated",
+  "present_participle": "floating",
+  "third_person": "floats"
+ },
+
+ "synonyms": ["drift", "bob"],
+ "antonyms": ["sink"],
+ "usage_examples": [
+  "Leaves float on the pond.",
+  "The parade had a large float."
+ ]
+}

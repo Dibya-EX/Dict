@@ -1,0 +1,36 @@
+{
+ "word": "fun",
+ "phonetic": "/fʌn/",
+ "part_of_speech": ["noun", "verb"],
+
+ "meanings": {
+  "noun": [
+   {
+    "definition": "Enjoyment or pleasure",
+    "example": "The game was fun."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To joke or play in a light-hearted way",
+    "example": "They were just funning around."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fun",
+  "past": "funned",
+  "past_participle": "funned",
+  "present_participle": "funning",
+  "third_person": "funs"
+ },
+
+ "synonyms": ["joy", "enjoyment", "joke"],
+ "antonyms": ["boredom", "seriousness"],
+
+ "usage_examples": [
+  "We had fun.",
+  "They fun each other sometimes."
+ ]
+}

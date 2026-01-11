@@ -1,0 +1,37 @@
+{
+ "word": "fill",
+ "phonetic": "/fɪl/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To make something full",
+    "example": "She filled the bottle with water."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "An amount that fills something",
+    "example": "He had a fill of water in his cup."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fill",
+  "past": "filled",
+  "past_participle": "filled",
+  "present_participle": "filling",
+  "third_person": "fills"
+ },
+
+ "synonyms": ["load", "pack", "stuff"],
+ "antonyms": ["empty", "drain"],
+
+ "usage_examples": [
+  "Fill the glass with juice.",
+  "He took a fill of water."
+ ]
+}
+

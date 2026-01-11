@@ -1,0 +1,23 @@
+{
+ "word": "fight",
+ "phonetic": "/faɪt/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   { "definition": "To take part in a battle", "example": "They fight often." }
+  ],
+  "noun": [
+   { "definition": "A physical or verbal conflict", "example": "They had a fight." }
+  ]
+ },
+ "tense_forms": {
+  "base": "fight",
+  "past": "fought",
+  "past_participle": "fought",
+  "present_participle": "fighting",
+  "third_person": "fights"
+ },
+ "synonyms": ["battle", "argue"],
+ "antonyms": ["peace"],
+ "usage_examples": ["Do not fight."]
+}

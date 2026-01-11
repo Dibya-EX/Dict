@@ -1,0 +1,36 @@
+{
+ "word": "fast",
+ "phonetic": "/fɑːst/",
+ "part_of_speech": ["adjective", "verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To abstain from all or some kinds of food",
+    "example": "They fast during Ramadan."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A period of not eating",
+    "example": "He went on a two-day fast."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "fast",
+  "past": "fasted",
+  "past_participle": "fasted",
+  "present_participle": "fasting",
+  "third_person": "fasts"
+ },
+
+ "synonyms": ["abstain", "refrain"],
+ "antonyms": ["feast", "eat"],
+
+ "usage_examples": [
+  "They fast during holy days.",
+  "The fast lasted 24 hours."
+ ]
+}

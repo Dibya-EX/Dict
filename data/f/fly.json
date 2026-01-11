@@ -1,0 +1,23 @@
+{
+ "word": "fly",
+ "phonetic": "/flaɪ/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   { "definition": "To move in the air", "example": "Birds fly." }
+  ],
+  "noun": [
+   { "definition": "A small insect", "example": "A fly is on the wall." }
+  ]
+ },
+ "tense_forms": {
+  "base": "fly",
+  "past": "flew",
+  "past_participle": "flown",
+  "present_participle": "flying",
+  "third_person": "flies"
+ },
+ "synonyms": ["soar", "insect"],
+ "antonyms": ["fall"],
+ "usage_examples": ["Planes fly high."]
+}
