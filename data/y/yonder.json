@@ -1,0 +1,32 @@
+{
+ "word": "yonder",
+ "phonetic": "/ˈjɒn.dər/",
+ "part_of_speech": ["adverb", "noun", "verb"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To look or point toward a distant place",
+    "example": "They yondered toward the hills."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A distant place in view",
+    "example": "See the cabin yonder?"
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yonder",
+  "past": "yondered",
+  "past_participle": "yondered",
+  "present_participle": "yondering",
+  "third_person": "yonders"
+ },
+ "synonyms": ["faraway", "distant"],
+ "antonyms": ["near", "close"],
+ "usage_examples": [
+  "The barn stands yonder.",
+  "They yondered toward the ridge."
+ ]
+}

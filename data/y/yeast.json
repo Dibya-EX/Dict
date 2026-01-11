@@ -1,0 +1,32 @@
+{
+ "word": "yeast",
+ "phonetic": "/jiːst/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A fungus used in baking and brewing",
+    "example": "Add the yeast to the dough."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To cause to ferment using yeast",
+    "example": "They yeasted the dough overnight."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yeast",
+  "past": "yeasted",
+  "past_participle": "yeasted",
+  "present_participle": "yeasting",
+  "third_person": "yeasts"
+ },
+ "synonyms": ["ferment"],
+ "antonyms": [],
+ "usage_examples": [
+  "The baker added yeast to the mixture.",
+  "They yeasted the bread dough carefully."
+ ]
+}

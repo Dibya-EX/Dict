@@ -1,0 +1,32 @@
+{
+ "word": "youthful",
+ "phonetic": "/ˈjuːθ.fəl/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A young person",
+    "example": "The school promotes youthfulness."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To act or feel in a youthful manner",
+    "example": "She youthfully approached every challenge."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "youthful",
+  "past": "youthfulled",
+  "past_participle": "youthfulled",
+  "present_participle": "youthfulling",
+  "third_person": "youthfulls"
+ },
+ "synonyms": ["young", "juvenile", "vitalize"],
+ "antonyms": ["old", "mature", "age"],
+ "usage_examples": [
+  "He youthfully approached life with energy.",
+  "The young adults youthfully celebrated the festival."
+ ]
+}

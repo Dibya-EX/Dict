@@ -1,0 +1,32 @@
+{
+ "word": "yard",
+ "phonetic": "/jɑːrd/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "An area of land around a house",
+    "example": "The kids played in the yard."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To measure in yards or enclose",
+    "example": "They yarded the garden for planting."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yard",
+  "past": "yarded",
+  "past_participle": "yarded",
+  "present_participle": "yarding",
+  "third_person": "yards"
+ },
+ "synonyms": ["garden", "enclose"],
+ "antonyms": ["open", "neglect"],
+ "usage_examples": [
+  "The dog ran across the yard.",
+  "They yarded the area for safety."
+ ]
+}

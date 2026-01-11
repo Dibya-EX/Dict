@@ -1,0 +1,32 @@
+{
+ "word": "year",
+ "phonetic": "/jɪər/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A period of twelve months",
+    "example": "There are twelve months in a year."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To mark or track the passage of a year",
+    "example": "They will year their crops carefully."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "year",
+  "past": "yearred",
+  "past_participle": "yearred",
+  "present_participle": "yearring",
+  "third_person": "years"
+ },
+ "synonyms": ["twelve months", "time"],
+ "antonyms": [],
+ "usage_examples": [
+  "A leap year has 366 days.",
+  "They year their plants for records."
+ ]
+}

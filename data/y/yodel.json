@@ -1,0 +1,32 @@
+{
+ "word": "yodel",
+ "phonetic": "/ˈjoʊ.dəl/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To sing with rapid changes between chest and head voice",
+    "example": "He yodeled on the mountainside."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A song or call made with sudden changes in pitch",
+    "example": "The yodel echoed through the valley."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yodel",
+  "past": "yodeled",
+  "past_participle": "yodeled",
+  "present_participle": "yodeling",
+  "third_person": "yodels"
+ },
+ "synonyms": ["sing", "call"],
+ "antonyms": ["whisper", "mumble"],
+ "usage_examples": [
+  "They yodeled happily in the Alps.",
+  "The loud yodel carried far across the hills."
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "word": "yield",
+ "phonetic": "/jiːld/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To produce or give way",
+    "example": "The farm yields a good crop."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "The amount produced",
+    "example": "The yield of the field was high."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "yield",
+  "past": "yielded",
+  "past_participle": "yielded",
+  "present_participle": "yielding",
+  "third_person": "yields"
+ },
+
+ "synonyms": ["produce", "give", "surrender"],
+ "antonyms": ["resist", "withhold"],
+ "usage_examples": [
+  "The soil yields vegetables every year.",
+  "They had to yield to pressure."
+ ]
+}

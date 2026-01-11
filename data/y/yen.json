@@ -1,0 +1,32 @@
+{
+ "word": "yen",
+ "phonetic": "/jɛn/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A strong desire or longing",
+    "example": "She had a yen for adventure."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To have a strong desire for something",
+    "example": "He yenned for a new challenge."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yen",
+  "past": "yenned",
+  "past_participle": "yenned",
+  "present_participle": "yenning",
+  "third_person": "yens"
+ },
+ "synonyms": ["desire", "craving"],
+ "antonyms": ["aversion", "disinterest"],
+ "usage_examples": [
+  "She had a yen for travel.",
+  "He yenned to see the world."
+ ]
+}

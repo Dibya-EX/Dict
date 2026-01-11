@@ -1,0 +1,32 @@
+{
+ "word": "yesterday",
+ "phonetic": "/ˈjɛs.tə.deɪ/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "The day before today",
+    "example": "We met yesterday."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To refer to or evoke the day before today",
+    "example": "He yesterdayed the memory in his speech."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yesterday",
+  "past": "yesterdayed",
+  "past_participle": "yesterdayed",
+  "present_participle": "yesterdaying",
+  "third_person": "yesterdays"
+ },
+ "synonyms": ["previous day", "the day before"],
+ "antonyms": ["tomorrow", "today"],
+ "usage_examples": [
+  "I saw her yesterday.",
+  "He yesterdayed the event in his notes."
+ ]
+}

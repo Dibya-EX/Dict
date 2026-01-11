@@ -1,0 +1,31 @@
+{
+ "word": "abandon",
+ "phonetic": "/əˈbændən/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+ "verb": [
+ {
+ "definition": "To leave someone or something permanently",
+ "example": "They abandoned the building."
+ }
+ ],
+ "noun": [
+ {
+ "definition": "Lack of restraint",
+ "example": "He danced with abandon."
+ }
+ ]
+ },
+ "tense_forms": {
+ "base": "abandon",
+ "past": "abandoned",
+ "past_participle": "abandoned",
+ "present_participle": "abandoning",
+ "third_person": "abandons"
+ },
+ "synonyms": ["leave", "desert", "forsake"],
+ "antonyms": ["keep", "retain"],
+ "usage_examples": [
+ "The captain refused to abandon the ship."
+ ]
+}

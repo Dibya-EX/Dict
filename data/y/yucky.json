@@ -1,0 +1,38 @@
+{
+ "word": "yucky",
+ "phonetic": "/ˈjʌki/",
+ "part_of_speech": ["adjective", "noun", "verb"],
+ "meanings": {
+  "adjective": [
+   {
+    "definition": "Disgusting or unpleasant",
+    "example": "The food was yucky."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "Something unpleasant",
+    "example": "The mess was a real yucky."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To react with disgust",
+    "example": "She yuckied at the spoiled food."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yucky",
+  "past": "yuckied",
+  "past_participle": "yuckied",
+  "present_participle": "yuckying",
+  "third_person": "yuckies"
+ },
+ "synonyms": ["gross", "disgusting"],
+ "antonyms": ["pleasant", "delicious"],
+ "usage_examples": [
+  "That soup is yucky.",
+  "He yuckied at the taste."
+ ]
+}

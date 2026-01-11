@@ -1,0 +1,38 @@
+{
+ "word": "yuck",
+ "phonetic": "/jʌk/",
+ "part_of_speech": ["interjection", "noun", "verb"],
+ "meanings": {
+  "interjection": [
+   {
+    "definition": "Used to express disgust",
+    "example": "Yuck! This tastes awful."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "An expression of disgust",
+    "example": "He said 'yuck' at the sight of the mess."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To react with disgust",
+    "example": "She yucked at the smell."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yuck",
+  "past": "yucked",
+  "past_participle": "yucked",
+  "present_participle": "yucking",
+  "third_person": "yucks"
+ },
+ "synonyms": ["ugh", "gross"],
+ "antonyms": ["delight"],
+ "usage_examples": [
+  "Yuck! That’s gross.",
+  "He yucked loudly at the bitter taste."
+ ]
+}

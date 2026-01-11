@@ -1,0 +1,33 @@
+{
+ "word": "yes",
+ "phonetic": "/jɛs/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "An expression of agreement",
+    "example": "She gave a big yes."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To agree or give approval",
+    "example": "They yesed the proposal.",
+    "note": "Informal/slang usage"
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yes",
+  "past": "yesed",
+  "past_participle": "yesed",
+  "present_participle": "yesing",
+  "third_person": "yeses"
+ },
+ "synonyms": ["agree", "affirm"],
+ "antonyms": ["no", "deny"],
+ "usage_examples": [
+  "Her yes changed everything.",
+  "We yesed the plan quickly."
+ ]
+}

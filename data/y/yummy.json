@@ -1,0 +1,32 @@
+{
+ "word": "yummy",
+ "phonetic": "/ˈjʌm.i/",
+ "part_of_speech": ["adjective", "noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "Something delicious",
+    "example": "That cake is a yummy."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To enjoy eating something",
+    "example": "We yummyed every bite."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yummy",
+  "past": "yummied",
+  "past_participle": "yummied",
+  "present_participle": "yummying",
+  "third_person": "yummies"
+ },
+ "synonyms": ["delicious", "tasty"],
+ "antonyms": ["yucky"],
+ "usage_examples": [
+  "The pizza was yummy.",
+  "They yummyed the dessert."
+ ]
+}

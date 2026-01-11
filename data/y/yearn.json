@@ -1,0 +1,32 @@
+{
+ "word": "yearn",
+ "phonetic": "/jɜːrn/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To have a strong desire or longing for something",
+    "example": "She yearned for freedom."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A strong desire or longing",
+    "example": "His yearn for adventure was clear."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yearn",
+  "past": "yearned",
+  "past_participle": "yearned",
+  "present_participle": "yearning",
+  "third_person": "yearns"
+ },
+ "synonyms": ["long", "desire", "crave"],
+ "antonyms": ["ignore", "dislike"],
+ "usage_examples": [
+  "He yearned for adventure.",
+  "They yearned to return home."
+ ]
+}

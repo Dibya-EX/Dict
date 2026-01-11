@@ -1,0 +1,32 @@
+{
+ "word": "yarn",
+ "phonetic": "/jɑːrn/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "Thread used for knitting or weaving",
+    "example": "She bought some wool yarn."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To tell a long story or tale",
+    "example": "He yarned about his travels."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yarn",
+  "past": "yarned",
+  "past_participle": "yarned",
+  "present_participle": "yarning",
+  "third_person": "yarns"
+ },
+ "synonyms": ["thread", "spin", "tell"],
+ "antonyms": [],
+ "usage_examples": [
+  "She is knitting with yarn.",
+  "He yarned about his adventures."
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "word": "yahoo",
+ "phonetic": "/ˈjɑː.huː/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A rude, noisy, or coarse person",
+    "example": "The crowd was full of yahoos."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To shout or act boisterously",
+    "example": "They yahoos in celebration."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yahoo",
+  "past": "yahooed",
+  "past_participle": "yahooed",
+  "present_participle": "yahooing",
+  "third_person": "yahoos"
+ },
+ "synonyms": ["lout", "shout"],
+ "antonyms": ["gentleman", "quiet"],
+ "usage_examples": [
+  "Don't act like a yahoo.",
+  "They yahooed at the festival."
+ ]
+}

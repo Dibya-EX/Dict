@@ -1,0 +1,32 @@
+{
+ "word": "you",
+ "phonetic": "/juː/",
+ "part_of_speech": ["pronoun", "verb"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To direct action toward someone (slang/contextual)",
+    "example": "They youed him for feedback."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "Used to refer to the person being addressed",
+    "example": "You are welcome."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "you",
+  "past": "youd",
+  "past_participle": "youd",
+  "present_participle": "youing",
+  "third_person": "yous"
+ },
+ "synonyms": ["thou", "thee"],
+ "antonyms": [],
+ "usage_examples": [
+  "I believe in you.",
+  "They youed their friend jokingly."
+ ]
+}

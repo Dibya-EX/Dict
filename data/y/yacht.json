@@ -1,0 +1,32 @@
+{
+ "word": "yacht",
+ "phonetic": "/jɒt/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A large boat used for pleasure or racing",
+    "example": "They sailed the yacht along the coast."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To travel or race in a yacht",
+    "example": "They yachted around the islands."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yacht",
+  "past": "yachted",
+  "past_participle": "yachted",
+  "present_participle": "yachting",
+  "third_person": "yachts"
+ },
+ "synonyms": ["sail", "boat"],
+ "antonyms": [],
+ "usage_examples": [
+  "The yacht glided across the water.",
+  "They yachted for the weekend."
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "word": "yours",
+ "phonetic": "/jɔːrz/",
+ "part_of_speech": ["pronoun", "verb"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To make something belong to you",
+    "example": "They yours the prize proudly."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "Belonging to you or you all",
+    "example": "The victory is yours."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yours",
+  "past": "yoursed",
+  "past_participle": "yoursed",
+  "present_participle": "yoursing",
+  "third_person": "yourses"
+ },
+ "synonyms": ["belonging to you"],
+ "antonyms": [],
+ "usage_examples": [
+  "The victory is yours.",
+  "They yours the award with pride."
+ ]
+}

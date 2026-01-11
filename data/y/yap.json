@@ -1,0 +1,32 @@
+{
+ "word": "yap",
+ "phonetic": "/jæp/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To talk noisily or bark sharply",
+    "example": "The dog yapped all night."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A sharp or shrill bark",
+    "example": "The little dog's yap was annoying."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yap",
+  "past": "yapped",
+  "past_participle": "yapped",
+  "present_participle": "yapping",
+  "third_person": "yaps"
+ },
+ "synonyms": ["bark", "jabber", "chatter"],
+ "antonyms": ["silence", "hush"],
+ "usage_examples": [
+  "The puppy yapped loudly.",
+  "His constant yap annoyed everyone."
+ ]
+}

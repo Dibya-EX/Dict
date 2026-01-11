@@ -1,0 +1,35 @@
+{
+ "word": "yelp",
+ "phonetic": "/jɛlp/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To make a short sharp cry",
+    "example": "The dog yelped in pain."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A short sharp cry",
+    "example": "She gave a yelp of surprise."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "yelp",
+  "past": "yelped",
+  "past_participle": "yelped",
+  "present_participle": "yelping",
+  "third_person": "yelps"
+ },
+
+ "synonyms": ["cry", "bark", "squeal"],
+ "antonyms": ["whisper", "murmur"],
+ "usage_examples": [
+  "The puppy yelped loudly.",
+  "A loud yelp startled everyone."
+ ]
+}

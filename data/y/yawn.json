@@ -1,0 +1,32 @@
+{
+ "word": "yawn",
+ "phonetic": "/jɔːn/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To open the mouth involuntarily due to tiredness",
+    "example": "He yawned during the lecture."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "An involuntary opening of the mouth",
+    "example": "A loud yawn escaped him."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yawn",
+  "past": "yawned",
+  "past_participle": "yawned",
+  "present_participle": "yawning",
+  "third_person": "yawns"
+ },
+ "synonyms": ["stretch", "gape"],
+ "antonyms": [],
+ "usage_examples": [
+  "I couldn't stop yawning.",
+  "A yawn spread across the room."
+ ]
+}

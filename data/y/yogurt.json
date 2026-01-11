@@ -1,0 +1,32 @@
+{
+ "word": "yogurt",
+ "phonetic": "/ˈjoʊɡərt/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A semi-solid sourish food made from fermented milk",
+    "example": "I eat yogurt every morning."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To prepare or serve with yogurt",
+    "example": "They yogurted the fruit salad for breakfast."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yogurt",
+  "past": "yogurted",
+  "past_participle": "yogurted",
+  "present_participle": "yogurting",
+  "third_person": "yogurts"
+ },
+ "synonyms": ["curd"],
+ "antonyms": [],
+ "usage_examples": [
+  "She added yogurt to her smoothie.",
+  "They yogurting the dessert."
+ ]
+}

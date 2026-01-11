@@ -1,0 +1,32 @@
+{
+ "word": "yellow",
+ "phonetic": "/ˈjɛl.oʊ/",
+ "part_of_speech": ["noun", "verb"],
+ "meanings": {
+  "noun": [
+   {
+    "definition": "A bright color like that of a lemon",
+    "example": "The sunflowers were yellow."
+   }
+  ],
+  "verb": [
+   {
+    "definition": "To become yellow in color",
+    "example": "The leaves yellowed in autumn."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yellow",
+  "past": "yellowed",
+  "past_participle": "yellowed",
+  "present_participle": "yellowing",
+  "third_person": "yellows"
+ },
+ "synonyms": ["golden", "blonde"],
+ "antonyms": ["green", "blue"],
+ "usage_examples": [
+  "The walls are painted yellow.",
+  "The paper yellowed over time."
+ ]
+}

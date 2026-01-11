@@ -1,0 +1,32 @@
+{
+ "word": "yank",
+ "phonetic": "/jæŋk/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To pull something suddenly and sharply",
+    "example": "He yanked the door open."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A sudden sharp pull",
+    "example": "Give the rope a yank."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yank",
+  "past": "yanked",
+  "past_participle": "yanked",
+  "present_participle": "yanking",
+  "third_person": "yanks"
+ },
+ "synonyms": ["pull", "tug"],
+ "antonyms": ["push", "release"],
+ "usage_examples": [
+  "He yanked the drawer open.",
+  "Give the rope a strong yank."
+ ]
+}

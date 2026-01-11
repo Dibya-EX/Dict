@@ -1,0 +1,35 @@
+{
+ "word": "yoke",
+ "phonetic": "/joʊk/",
+ "part_of_speech": ["verb", "noun"],
+
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To join or link together",
+    "example": "They yoked the oxen to the plow."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A wooden crosspiece that joins two animals",
+    "example": "The oxen pulled the yoke together."
+   }
+  ]
+ },
+
+ "tense_forms": {
+  "base": "yoke",
+  "past": "yoked",
+  "past_participle": "yoked",
+  "present_participle": "yoking",
+  "third_person": "yokes"
+ },
+
+ "synonyms": ["join", "link", "harness"],
+ "antonyms": ["detach", "separate"],
+ "usage_examples": [
+  "They yoked the cattle to the cart.",
+  "The yoke held the animals together."
+ ]
+}

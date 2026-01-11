@@ -1,0 +1,32 @@
+{
+ "word": "yowl",
+ "phonetic": "/jaʊl/",
+ "part_of_speech": ["verb", "noun"],
+ "meanings": {
+  "verb": [
+   {
+    "definition": "To make a loud wailing cry",
+    "example": "The cat yowled all night."
+   }
+  ],
+  "noun": [
+   {
+    "definition": "A loud wailing cry",
+    "example": "The yowl of the wolf echoed in the forest."
+   }
+  ]
+ },
+ "tense_forms": {
+  "base": "yowl",
+  "past": "yowled",
+  "past_participle": "yowled",
+  "present_participle": "yowling",
+  "third_person": "yowls"
+ },
+ "synonyms": ["howl", "wail"],
+ "antonyms": ["whisper"],
+ "usage_examples": [
+  "The dog yowled at the moon.",
+  "A yowl came from the alley."
+ ]
+}
